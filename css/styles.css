@@ -186,14 +186,19 @@ footer {
 }
 
 .footer-address {
+  font-family: Roboto;
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+
   color: #ffffff;
 }
 
 .footer-mailto {
+  font-family: Roboto;
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -202,9 +207,11 @@ footer {
 }
 
 .footer-tel {
+  font-family: Roboto;
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1.71;
+  line-height: 24px;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
